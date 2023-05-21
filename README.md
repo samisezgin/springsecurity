@@ -13,4 +13,4 @@ https://www.youtube.com/watch?v=KxqlJblhzfI&ab_channel=Amigoscode
 
 - [@AmigosCode](https://www.youtube.com/@amigoscode) thank you for the tutorial using Spring Boot 3 and JWT. Really appreciated for your effort. Clean english and not complicated expression.
 
-  
+- [@GitHub](https://github.com/ali-bouali/spring-boot-3-jwt-security) GitHub link to original repository of him
